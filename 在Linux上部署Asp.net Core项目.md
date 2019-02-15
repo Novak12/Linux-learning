@@ -32,3 +32,6 @@ sudo systemctl restart nginx
 
 * 启动Asp.net Core应用 <br/>
 sudo ./Webapp
+
+* 如果不是独立部署，则需要在Linux系统中安装Asp.net Core SDK。<br/>
+参考链接（https://dotnet.microsoft.com/download/linux-package-manager/ubuntu18-04/sdk-2.1.504）
