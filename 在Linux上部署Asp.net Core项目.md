@@ -26,3 +26,9 @@ server {
     }
 }
 ```
+* 启动Nginx <br/>
+sudo systemctl restart nginx
+
+
+* 启动Asp.net Core应用 <br/>
+sudo ./Webapp
